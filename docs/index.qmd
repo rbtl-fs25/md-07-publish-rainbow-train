@@ -2,9 +2,7 @@
 title: "A minimal example"
 date: today
 author: Rainbow Train
-format:
-  html:
-    toc: true
+format: revealjs
 execute:
   warning: false
 editor: visual
